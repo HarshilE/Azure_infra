@@ -1,2 +1,2 @@
 # Azure_infra
-Test Azure codes are here no
+Test Azure codes are here

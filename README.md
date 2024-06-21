@@ -1,2 +1,2 @@
 # Azure_infra
-Test Azure codes are here
+Trying to put a basic infra of Vnet, VM, Db, applpication gateway.
